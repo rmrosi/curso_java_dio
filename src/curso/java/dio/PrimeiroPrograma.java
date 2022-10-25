@@ -1,4 +1,4 @@
-package curso_java_dio;
+package curso.java.dio;
 
 public class PrimeiroPrograma {
 
