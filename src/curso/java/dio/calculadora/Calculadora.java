@@ -18,7 +18,7 @@ public class Calculadora {
 		double multiplicacao = multiplicacao(a,b);
 		double divisao = divisao(a,b);
 
-		System.out.println(soma);
+		System.out.println("Soma: "+soma);
 		System.out.println(subtracao);
 		System.out.println(multiplicacao);
 		System.out.println(divisao);
